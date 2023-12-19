@@ -52,7 +52,7 @@ section     .data
 Se você não entendeu nada não precisa se preocupar. Assembly é um nível abaixo de C++, então praticamente nunca há a necessidade de diretamente usar Assembly.
 Voltando: o compilador lê o código C++ e converte pra o equivalente na monstruosidade que é o Assembly, e então o código assembly é convertido para um executável que o computador executa diretamente.
 
-Como não há nenhum programa externo executando nosso código, já que nosso código é convertido diretamente pra código de máquina otimizado que o computador lê diretamente na velocidade da luz, linguagens interpretadas são **extremamente mais rápidas** que linguagens interpretadas. A desvantagem é a complexidade, visto que como código C++ vai ser diretamente convertido pra binário, isso quer dizer que é nossa responsabilidade como programador cuidar da memória do programa e cuidar para não explodir o computador.
+Como não há nenhum programa externo executando nosso código, já que nosso código é convertido diretamente pra código de máquina otimizado que o computador lê diretamente na velocidade da luz, linguagens compiladas são **extremamente mais rápidas** que linguagens interpretadas. A desvantagem é a complexidade, visto que como código C++ vai ser diretamente convertido pra binário, isso quer dizer que é nossa responsabilidade como programador cuidar da memória do programa e cuidar para não explodir o computador.
 
 O compilador faz mais do que apenas isso, mas vou entrar nisso em capítulos futuros.
 
