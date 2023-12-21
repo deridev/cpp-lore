@@ -76,3 +76,5 @@ Se você quiser mudar o nome do executável que o compilador vai criar, basta pa
 # 4. Finalização
 
 No próximo capítulo irei explicar melhor variáveis, tipos e operadores do C++!
+
+[Capítulo 3 - Memória](c3-data.md)
